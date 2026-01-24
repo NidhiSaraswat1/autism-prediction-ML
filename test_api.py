@@ -80,5 +80,5 @@ if __name__ == "__main__":
         print("\n" + "=" * 50)
         print("❌ Health check failed! Make sure the API is running.")
         print("=" * 50)
-        print("\nTo start the API, run: python APIs/app.py")
+        print("\nTo start the API, run: python api/app.py")
 

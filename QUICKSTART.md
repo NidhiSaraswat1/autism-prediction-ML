@@ -20,7 +20,7 @@ Then open your browser to `http://localhost:8501`
 
 #### Option B: API Server
 ```bash
-python APIs/app.py
+python api/app.py
 ```
 API will be available at `http://localhost:5000`
 

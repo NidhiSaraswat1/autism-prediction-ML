@@ -82,7 +82,7 @@ This will start a local web server (usually at `http://localhost:8501`). Open th
 Start the Flask API server:
 
 ```bash
-python APIs/app.py
+python api/app.py
 ```
 
 The API will be available at `http://localhost:5000`
